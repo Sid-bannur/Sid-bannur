@@ -1,4 +1,7 @@
 ### Hi there 👋
+My interests are in aerospace structures and aerospace design processes. I am interested in learning how to better cade to help me in the aerospace engineering industry.
+I am currently working on design processes for flight wing systems with cessna.
+My favorate hobby is flying planes, I am currently working towards my private pilots license.
 
 <!--
 **Sid-bannur/Sid-bannur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
